@@ -10,6 +10,6 @@ express()
       return;
     }
 
-    console.log("Express Server listening on port 3000");
+    console.log("Express Server listening on port 80");
   })
 ;
